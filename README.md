@@ -55,4 +55,4 @@ The code includes a Gradio-based interface for making stroke risk predictions. T
 - Sıla Sinem Soydan
 - Ceren Çatkın
 - Mehmet Arif Kuzgun
-***IKC™ ***
+***IKC™***
